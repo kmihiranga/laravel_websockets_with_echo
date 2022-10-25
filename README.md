@@ -55,6 +55,7 @@ got idea from this blog post
 
 [Blog post link - 02](https://www.codecheef.org/article/laravel-event-broadcasting-using-socketio-with-redis)
 
+[Blog post link - 03](https://medium.com/@jan.kulma/laravel-broadcasting-with-redis-and-socket-io-51ce2660633d)
 
 ## License
 
