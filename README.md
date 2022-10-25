@@ -6,8 +6,14 @@ This project is related to the Laravel websockets and Laravel echo. Redis used t
 
 1. first you need to setup redis connection. For this i used a redis container. you can run this command to create a redis command using docker.
 
+### redis stack server
 ```
 docker run -d --name redis-stack-server -p 6379:6379 redis/redis-stack-server:latest
+```
+
+### redis stack
+```
+docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
 ```
 
 2. Then you need to compile js files
