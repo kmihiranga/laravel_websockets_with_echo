@@ -51,7 +51,10 @@ php artisan serve
 
 got idea from this blog post
 
-[Blog post link](https://kbouzidi.com/real-time-events-with-laravel-and-soketi#prepare-laravel-for-broadcasting)
+[Blog post link - 01](https://kbouzidi.com/real-time-events-with-laravel-and-soketi#prepare-laravel-for-broadcasting)
+
+[Blog post link - 02](https://www.codecheef.org/article/laravel-event-broadcasting-using-socketio-with-redis)
+
 
 ## License
 
