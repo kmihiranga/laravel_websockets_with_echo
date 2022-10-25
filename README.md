@@ -37,6 +37,12 @@ REDIS_PORT=6379
 LARAVEL_ECHO_PORT=6001
 ```
 
+5. you can run this project using artisan command
+
+```
+php artisan serve
+```
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
