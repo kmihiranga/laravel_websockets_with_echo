@@ -49,6 +49,10 @@ LARAVEL_ECHO_PORT=6001
 php artisan serve
 ```
 
+got idea from this blog post
+
+[Blog post link](https://kbouzidi.com/real-time-events-with-laravel-and-soketi#prepare-laravel-for-broadcasting)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
